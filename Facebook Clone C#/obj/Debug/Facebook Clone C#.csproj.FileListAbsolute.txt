@@ -1,0 +1,7 @@
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\bin\Debug\Facebook Clone C#.exe
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\bin\Debug\Facebook Clone C#.pdb
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\obj\Debug\Facebook Clone C#.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\obj\Debug\Facebook Clone C#.exe
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\obj\Debug\Facebook Clone C#.pdb
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\obj\Debug\Facebook_Clone_C_.MainForm.resources
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\Facebook Clone C#\Facebook Clone C#\obj\Debug\Facebook Clone C#.csproj.GenerateResource.Cache
